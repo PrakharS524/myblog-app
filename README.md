@@ -22,11 +22,14 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## Learn More
 
-The project has following functionalities:
--Add Blogs
--Remove Blogs
--Add Email Subscriptions
--Remove Email Subscriptions
--View all Blogs
--View all Emails subscribed
-These can be accessed using Admin Panel
+# Features
+
+- Add Blogs  
+- Remove Blogs  
+- Add Email Subscriptions  
+- Remove Email Subscriptions  
+- View All Blogs  
+- View All Subscribed Emails  
+
+These features can be accessed using the **Admin Panel**.
+
