@@ -22,7 +22,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## Learn More
 
-# Features
+### Features
 
 - Add Blogs  
 - Remove Blogs  
